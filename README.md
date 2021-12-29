@@ -1,2 +1,4 @@
-# nearest_neighbor_large_dataset
-Neares neighbor analysis with large datasets in Kallio, Helsinki
+# Nearest neighbor analysis with arge datasets
+Neares neighbor analysis with large datasets Helsinki
+
+![map](map.png)
